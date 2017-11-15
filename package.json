@@ -61,7 +61,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "prop-types": "*"
   },
   "dependencies": {
     "clamp": "^1.0.1",
